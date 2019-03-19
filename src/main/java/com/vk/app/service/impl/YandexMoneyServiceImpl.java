@@ -4,5 +4,5 @@ import com.vk.app.service.interfaces.YandexMoneyService;
 
 public class YandexMoneyServiceImpl implements YandexMoneyService {
 
-    Ya
+
 }

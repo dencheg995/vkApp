@@ -16,12 +16,7 @@
     </parent>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/com.yandex.money.api/yandex-money-sdk-java -->
-        <dependency>
-            <groupId>com.yandex.money.api</groupId>
-            <artifactId>yandex-money-sdk-java</artifactId>
-            <version>LATEST</version>
-        </dependency>
+
 
 
 
@@ -44,7 +39,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>6.0.6</version>
+            <version>5.1.46</version>
         </dependency>
 
     </dependencies>
